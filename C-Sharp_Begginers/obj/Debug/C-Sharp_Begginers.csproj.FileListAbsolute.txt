@@ -1,0 +1,7 @@
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\bin\Debug\C-Sharp_Begginers.exe.config
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\bin\Debug\C-Sharp_Begginers.exe
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\bin\Debug\C-Sharp_Begginers.pdb
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\obj\Debug\C-Sharp_Begginers.csproj.AssemblyReference.cache
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\obj\Debug\C-Sharp_Begginers.csproj.CoreCompileInputs.cache
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\obj\Debug\C-Sharp_Begginers.exe
+F:\Siddheshwar\Programming\C#\C-Sharp_Beginners\C-Sharp_Begginers\obj\Debug\C-Sharp_Begginers.pdb
